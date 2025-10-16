@@ -5,10 +5,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6)
 ![AI](https://img.shields.io/badge/Focus-AI%20%26%20Bots-orange)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)
 ![Last Commit](https://img.shields.io/github/last-commit/TUO-USERNAME/ai-learning-journey)
 ![GitHub followers](https://img.shields.io/github/followers/stefano-paciolla-ai-developer
 ?style=social)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)
 
 ## 👋 Benvenuto!
 
