@@ -1,5 +1,11 @@
 # 🚀 Il Mio Percorso AI & Bot Development
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Status](https://img.shields.io/badge/Status-Learning-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6)
+![AI](https://img.shields.io/badge/Focus-AI%20%26%20Bots-orange)
+
 ## 👋 Benvenuto!
 
 Questo repository documenta il mio viaggio per diventare un professionista in:
