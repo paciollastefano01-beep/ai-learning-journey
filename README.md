@@ -40,7 +40,7 @@ Questo repository documenta il mio viaggio per diventare un professionista in:
 ## 📧 Contatti
 
 - 📧 Email: [paciollastefano01@gmail.com](mailto:paciollastefano01@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/stefano-paciolla-561519209](https://www.www.linkedin.com/in/stefano-paciolla-561519209)
+- 💼 LinkedIn: [www.linkedin.com/in/stefano-paciolla-561519209](https://www.linkedin.com/in/stefano-paciolla-561519209)
 
 ---
 
