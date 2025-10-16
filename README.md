@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6)
 ![AI](https://img.shields.io/badge/Focus-AI%20%26%20Bots-orange)
+![Top Language](https://img.shields.io/github/languages/top/paciollastefano01-beep/ai-learning-journey)
 ![Last Commit](https://img.shields.io/github/last-commit/paciollastefano01-beep/ai-learning-journey)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)
 
